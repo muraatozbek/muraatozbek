@@ -6,7 +6,7 @@ Hi 👋, I'm Murat</h1>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muraatozbek&label=Profile%20views&color=0e75b6&style=flat" alt="muraatozbek" /> </p>
 
-- 🔭 I’m currently working on [Harfang](https://github.com/harfang3d/dogfight-sandbox-hg2)
+
 
 - 💬 Ask me about **Reinforcement Learning**
 
